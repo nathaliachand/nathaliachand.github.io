@@ -254,7 +254,7 @@ header .fa-bars{
 }
 
 .slide .row .content p{
-  font-size: 18px;
+  font-size: 17px;
   color:rgb(217, 216, 216);
   margin-bottom: 20px;
   padding:.5rem 0;
@@ -800,7 +800,8 @@ header .fa-bars{
   }
 
   .home{
-      background-position: left;
+      background-position: center;      
+      background-size: contain;
   }
 
 }
